@@ -1,0 +1,3 @@
+[submodule "freqOccur"]
+	path = freqOccur
+	url = git@github.com:dripflux/freqOccur.git
